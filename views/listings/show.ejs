@@ -28,6 +28,10 @@
     </ul>
     <br>
     <a href="/listings/<%= listing._id %>/edit">Edit Your Listing</a>
+    <br><br>
+    <form method="POST" action="/listings/<%= listing._id %>?_method=DELETE">
+        <button>Delete This Listing</button>
+    </form>
 
 </body>
 
