@@ -1,6 +1,6 @@
 - URL: https://wanderlust-1-n06m.onrender.com/listings
 
-## WanderLust: Web App for see locations and hotel rooms for vcacations and holidays
+## WanderLust: Web App to see locations and hotel rooms for vcacations and holidays
 - This web app has location and hotel rooms from all over the world that excites you.
 - It has authentication and authorization functionality you can login and sign up.
 - You can see other's post and review on it by visit.
